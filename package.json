@@ -1,0 +1,21 @@
+{
+  "name": "ahnmika",
+  "displayName": "Ahnmika",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ahnmika",
+        "uiTheme": "vs",
+        "path": "./themes/Ahnmika-color-theme.json"
+      }
+    ]
+  }
+}
